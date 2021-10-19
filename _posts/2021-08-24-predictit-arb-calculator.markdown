@@ -7,4 +7,4 @@ categories: jekyll update
 
 
 
-[![Screenshot](/assets/predictit-arb-calculator/calculator-screenshot.png)](https://visuallyexplained.xyz/predictit-arbitrage-calculator)
+[![Screenshot](/assets/predictit-arb-calculator/calculator-screenshot.png)](http://visuallyexplained.xyz/predictit-arbitrage-calculator)
